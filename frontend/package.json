@@ -1,0 +1,11 @@
+{
+  "name": "remitflow-frontend",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
