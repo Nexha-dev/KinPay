@@ -1,4 +1,4 @@
-import { EscrowContract, ReleasePlan } from '../../contracts/escrow_contract';
+import { EscrowContract, ReleasePlan } from '../../../contracts/escrow_contract';
 
 const escrow = new EscrowContract();
 
